@@ -1,5 +1,5 @@
 // Admin Panel JavaScript
-const BACKEND_URL = 'https://YOUR-ACTUAL-RENDER-URL.onrender.com'; // Your deployed backend
+const BACKEND_URL = 'https://ezbet-luckyspin.onrender.com'; // Your deployed backend
 // const BACKEND_URL = 'http://localhost:3001'; // Local development
 
 let currentUsers = [];

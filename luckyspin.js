@@ -33,7 +33,7 @@ let currentLang = "mm";
 let prizeProbabilities = []; // Will be loaded from backend
 
 // Backend URL Configuration - Updated to your deployed backend:
-const BACKEND_URL = 'https://YOUR-ACTUAL-RENDER-URL.onrender.com'; // Your deployed backend
+const BACKEND_URL = 'https://ezbet-luckyspin.onrender.com'; // Your deployed backend
 // const BACKEND_URL = 'http://localhost:3001'; // Local development
 
 function setLanguage(lang) {
